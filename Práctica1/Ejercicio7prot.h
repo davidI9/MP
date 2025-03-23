@@ -1,0 +1,1 @@
+void estadisticaVector(int vector[], double* media, double* varianza, double* desvTip, int n);

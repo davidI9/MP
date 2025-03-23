@@ -1,0 +1,2 @@
+os recomiendo a todo el que lea esto comentar el codigo a medida que lo vais haciendo porque lo estoy leyendo para subirlo al github y me estoy mareando XD
+espero que a alguien le sirva esto alguna vez ^^

@@ -1,0 +1,1 @@
+void estadisticasCadena(char cadena[], int* nNums, int* nMayus, int* nMinus, int* nEspc, int n);
