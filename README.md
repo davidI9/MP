@@ -1,3 +1,3 @@
-Practical exercises that I've been doing for MP. 
-Written in C.
-I wouldn't say it is easy to understand because of the cleanness but I hope you find this reppository useful ^^
+Ejercicios prácticos que he estado haciendo para MP.
+Escrito en C.
+No diría que es fácil de entender por su claridad, pero espero que este repositorio sea útil ^^
